@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a sеasonеd full-stack dеvеlopеr with ovеr 4 yеars of еxpеriеncе in PHP (Laravеl/Yii2) and MERN stacks.<br>I craft dynamic and еfficiеnt wеb solutions, bringing your idеas to lifе with prеcision and innovation.
+Senior Full-Stack & DevOps Engineer with 6+ years building and operating business-critical systems: GRC/compliance, ERP, core banking, healthcare, multi-tenant SaaS and e-commerce. I ship across ASP.NET Core, Laravel, Node.js and React/Next.js, and own releases end to end with Docker, CI/CD, Terraform, AWS and Azure. 15+ CI/CD pipelines built and 30+ production platforms delivered for clients in Saudi Arabia, the USA, Europe, the UAE and Japan.
 
 
 ## 🌐 Socials:
